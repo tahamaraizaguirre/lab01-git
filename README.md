@@ -4,3 +4,5 @@ Proyecto del Laboratorio 01 del curso.
 ## Autor
 
 Tahamara - Laboratorio 01
+
+Se agrego un nuevo parrafo con color
